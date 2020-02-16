@@ -1,14 +1,14 @@
-  var sun
-  var mercury
-  var venus
-  var earth,
-  var mars,
-  var jupiter,
-  var saturn,
-  var uranus,
+  var sun;
+  var mercury;
+  var venus;
+  var earth;
+  var mars;
+  var jupiter;
+  var saturn;
+  var uranus;
   var neptune;
 
-  var sumImg
+  var sumImg;
   var meImg;
   var viperImg;
   var earthenImg;
